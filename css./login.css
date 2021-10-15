@@ -1,0 +1,15 @@
+.Top{
+    background-color: red;
+    height: 15%;
+    width: 100%;
+}
+.central section{
+    background-color: royalblue;
+    height: 70%;
+    width: 100%;
+}
+.bottom{
+    /* background-color: seagreen; */
+    height: 15%;
+    width: 100%;
+}
