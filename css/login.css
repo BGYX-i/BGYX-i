@@ -1,3 +1,8 @@
+.zong{
+    width: 100%;
+    height: 900px;
+    display: inline-block;
+}
 .Top{
     border: 1px solid aqua;
     height:  10%;
@@ -8,8 +13,7 @@
     border: 1px solid darkblue;
     height: 80%;
     width: 100%;
-    background-image: url(img./login_background.jpeg);
-    display: flexbox;
+    background-image: url(img/login_background.jpg);
 }
 .bottom{
     border: 1px solid salmon; 
@@ -18,14 +22,8 @@
     
 
 }
-.zong{
-    width: 100%;
-    height: 740px;
-    display: flexbox;
-}
+
 .Login_options{
-    top: 20%;
-    left: 70%;
     width: 25%;
     height: 60%;
     border: 1px solid lawngreen; 
