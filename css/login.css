@@ -1,7 +1,10 @@
+div{
+    box-sizing: border-box;
+}
 .zong{
     width: 100%;
     height: 900px;
-    display: inline-block;
+    display: -moz-inline-box;
 }
 .Top{
     border: 1px solid aqua;
@@ -14,16 +17,15 @@
     height: 80%;
     width: 100%;
     background-image: url(img/login_background.jpg);
+    display: -moz-inline-box;
 }
 .bottom{
     border: 1px solid salmon; 
     height: 10%;
     width: 100%;
-    
-
 }
-
 .Login_options{
+    top: 10%;
     width: 25%;
     height: 60%;
     border: 1px solid lawngreen; 
@@ -35,7 +37,6 @@
     height: 30px;
     border: 1px;
     border-radius: 2px;
-    top: 10%;
 }
 .in_two{
     width: 240px;
