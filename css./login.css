@@ -1,15 +1,30 @@
 .Top{
-    background-color: red;
-    height: 15%;
+    border: 1px solid aqua;
+    height:  10%;
     width: 100%;
+    margin: 0pt;
 }
-.central section{
-    background-color: royalblue;
-    height: 70%;
+.central_section{
+    border: 1px solid darkblue;
+    height: 80%;
     width: 100%;
+    position: relative;
 }
 .bottom{
-    /* background-color: seagreen; */
-    height: 15%;
+    border: 1px solid salmon; 
+    height: 10%;
     width: 100%;
+
+}
+.zong{
+    width: 100%;
+    height: 800px;
+}
+.Login_options{
+    top: 10%;
+    left: 68%;
+    width: 30%;
+    height: 70%;
+    border: 1px solid lawngreen; 
+    position: absolute;
 }
