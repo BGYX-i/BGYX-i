@@ -8,8 +8,8 @@
     border: 1px solid darkblue;
     height: 80%;
     width: 100%;
-    position: relative;
     background-image: url(img./login_background.jpeg);
+    display: flexbox;
 }
 .bottom{
     border: 1px solid salmon; 
@@ -20,16 +20,15 @@
 }
 .zong{
     width: 100%;
-    height: 1000px;
-    display: flex;
+    height: 740px;
+    display: flexbox;
 }
 .Login_options{
-    top: 10%;
+    top: 20%;
     left: 70%;
     width: 25%;
-    height: 70%;
+    height: 60%;
     border: 1px solid lawngreen; 
-    position: absolute;
     box-shadow:2px 2px 10px #000;
     border-radius: 15px;
 }
@@ -38,6 +37,7 @@
     height: 30px;
     border: 1px;
     border-radius: 2px;
+    top: 10%;
 }
 .in_two{
     width: 240px;
