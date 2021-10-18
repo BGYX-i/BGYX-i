@@ -2,8 +2,9 @@ div{
     box-sizing: border-box;
 }
 .zong{
-    width: 100%;
-    height: 900px;
+    height: 100%;
+    height: 720px;
+    width: 1200px;
     display: -moz-inline-box;
 }
 .Top{
